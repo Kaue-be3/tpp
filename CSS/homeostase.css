@@ -1,0 +1,20 @@
+main{
+    margin: auto;
+    margin: 20px 200px;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+h2{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+a:hover{
+    color: blue;
+}
